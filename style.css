@@ -1,0 +1,23 @@
+body
+{
+    background-color: aqua;
+    color: red;
+}
+.heading
+{
+    background-color: coral;
+    color: cyan;
+    font-size: medium;
+    width: 80%;
+}
+.name_objects
+{
+    color: salmon;
+}
+#camera
+{
+    width: 350px;
+    height: 300px;
+    border: 3px black ridge;
+    
+}
